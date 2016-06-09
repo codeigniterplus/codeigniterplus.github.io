@@ -1,11 +1,11 @@
-twitter.github.com
+codeigniterplus.github.io
 ======
 
-The source code of http://twitter.github.com/
+The source code of http://codeigniterplus.github.io/
 
 LICENSE
 ------------
 
-Copyright 2012 Twitter, Inc.
+Copyright 2016 Codeigniter Plus.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
